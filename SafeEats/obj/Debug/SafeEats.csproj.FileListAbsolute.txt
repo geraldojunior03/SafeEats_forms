@@ -1,0 +1,12 @@
+C:\Users\Pichau\source\repos\SafeEats\SafeEats\bin\Debug\SafeEats.exe.config
+C:\Users\Pichau\source\repos\SafeEats\SafeEats\bin\Debug\SafeEats.exe
+C:\Users\Pichau\source\repos\SafeEats\SafeEats\bin\Debug\SafeEats.pdb
+C:\Users\Pichau\source\repos\SafeEats\SafeEats\obj\Debug\SafeEats.csproj.AssemblyReference.cache
+C:\Users\Pichau\source\repos\SafeEats\SafeEats\obj\Debug\SafeEats.Properties.Resources.resources
+C:\Users\Pichau\source\repos\SafeEats\SafeEats\obj\Debug\SafeEats.csproj.GenerateResource.cache
+C:\Users\Pichau\source\repos\SafeEats\SafeEats\obj\Debug\SafeEats.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\SafeEats\SafeEats\obj\Debug\SafeEats.exe
+C:\Users\Pichau\source\repos\SafeEats\SafeEats\obj\Debug\SafeEats.pdb
+C:\Users\Pichau\source\repos\SafeEats\SafeEats\obj\Debug\SafeEats.Login.resources
+C:\Users\Pichau\source\repos\SafeEats\SafeEats\obj\Debug\SafeEats.EsqueceuSenha.resources
+C:\Users\Pichau\source\repos\SafeEats\SafeEats\obj\Debug\SafeEats.MenuInicial.resources
